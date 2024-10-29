@@ -1,2 +1,2 @@
 # SerpentShowdown
-Serpent Showdown Repository
+2 Player Snake Game
